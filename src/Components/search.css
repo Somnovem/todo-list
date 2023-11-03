@@ -1,0 +1,33 @@
+#search-container {
+    margin:10px 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#search-inputs {
+    padding: 5px 10px;
+    background: #58659a;
+    color:whitesmoke;
+    font-weight: 600;
+    font-family: "Leelawadee UI";
+    border-radius: 10px;
+    width:95%;
+}
+
+#search-inputs input {
+    display: inline;
+    border:none;
+    margin-left: 10px;
+    border-radius: 3px;
+    width:60%;
+}
+
+#search-button {
+    background: #6779c5;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 700;
+    color:whitesmoke;
+    border:none;
+    padding: 5px 10px;
+}
